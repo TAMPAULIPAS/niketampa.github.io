@@ -1,0 +1,26 @@
+img{
+    border-radius: 50%;
+    
+}
+body{
+    background-color: black;
+}
+h1{
+    font-size: 110px;
+    background: url(torike.jpg) repeat center;
+    background-size: cover;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-align: center;
+ 
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+i{
+    color: white;
+}
